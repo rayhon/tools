@@ -1,4 +1,4 @@
 # Tools
 
 ## DevOps
-  * [Check Server Latency](https://ping.varunagw.com/digital_ocean)
+  * [Check Cloud Server Latency](https://ping.varunagw.com/digital_ocean)
